@@ -1,2 +1,2 @@
-# CS300-Data-Structures-Algorithms
+## CS300-Data-Structures-Algorithms
 
