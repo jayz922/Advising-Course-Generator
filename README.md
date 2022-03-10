@@ -19,4 +19,4 @@ Program sorts courses for ABCU Advising by course numberand their prerequisites.
 - When using the program, make sure to Press 1 to load courses then you can perform further actions from menu items 
 - If using Clion to generate program, you can clone the repo and create a CMakeLists file. Make sure to include the directory, main.cpp and the Advising_input.txt file for full functionality.
 
-Written for SNHU CS300 Final Project - 
+Written for SNHU CS300 "Data Structures & Algorithms" Final Project  
